@@ -15,7 +15,7 @@
 
 - 🌙 哇，代码在自己长出来
 - 🤖 写 DeepSeek Harness 插件，给 AI 编程会话加上可回查的记忆和改动撤销
-- 📊 做了 MoonCell「表格侦探」，在本地找出引用可疑的公式，留给人复核
+- 🌐 独立全栈开发者，擅长 Node.js / TypeScript / Python / Astro / Vue
 - 🎬 做了 B 站视频理解插件，把关键画面、语音转写和画面文字串到同一条时间线上
 - 🛠️ 用 JavaScript / TypeScript 写插件和界面，用 Python 处理音频和视频
 - 🌧️ 偶尔写代码玩声音，用雨滴合成了日语声库「雨音レイン」
