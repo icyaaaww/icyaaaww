@@ -1,12 +1,12 @@
 # Hi, I'm icyaaaww!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;pause=1200&amp;color=D65089&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=50&amp;lines=MoonBit+%26+Developer+Tools;AI+Coding+Plugins;Sound+Experiments" alt="MoonBit and developer tools, AI coding plugins, and sound experiments" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;pause=1200&amp;color=637C94&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=50&amp;lines=MoonBit+%26+Developer+Tools;AI+Coding+Plugins;Sound+Experiments" alt="MoonBit and developer tools, AI coding plugins, and sound experiments" />
 </p>
 <p align="center">
-  <a href="#about-me"><img src="https://img.shields.io/badge/About-Me-D65089?style=flat-square" alt="About Me" /></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured-Projects-D65089?style=flat-square" alt="Featured Projects" /></a>
-  <a href="https://github.com/icyaaaww?tab=repositories"><img src="https://img.shields.io/badge/View-Repositories-D65089?style=flat-square&amp;logo=github" alt="View all repositories" /></a>
+  <a href="#about-me"><img src="https://img.shields.io/badge/About-Me-506B85?style=flat-square&amp;labelColor=3E5268" alt="About Me" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured-Projects-506B85?style=flat-square&amp;labelColor=3E5268" alt="Featured Projects" /></a>
+  <a href="https://github.com/icyaaaww?tab=repositories"><img src="https://img.shields.io/badge/View-Repositories-506B85?style=flat-square&amp;labelColor=3E5268&amp;logo=github&amp;logoColor=white" alt="View all repositories" /></a>
 </p>
 
 ---
