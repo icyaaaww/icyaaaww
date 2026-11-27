@@ -29,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,c" alt="JavaScript, TypeScript, Python, C" />
 </p>
 
-用 **MoonBit** 写解析和诊断核心，用 **JavaScript / TypeScript** 做插件和界面，也用 **Python** 做音频实验。
 
 ---
 
