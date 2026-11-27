@@ -19,6 +19,7 @@
 - 🎬 做了 B 站视频理解插件，把关键画面、语音转写和画面文字串到同一条时间线上
 - 🛠️ 用 JavaScript / TypeScript 写插件和界面，用 Python 处理音频和视频
 - 🌧️ 偶尔写代码玩声音，用雨滴合成了日语声库「雨音レイン」
+- 🔧 开源贡献者：[AstrBot](https://github.com/AstrBotDevs/AstrBot/pull/11349)、[LingChat](https://github.com/SlimeBoyOwO/LingChat/pull/783)、[MaiBot](https://github.com/Mai-with-u/MaiBot/pull/1991)、[N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O/pull/653)、[dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI/pull/1054)
 
 ---
 
